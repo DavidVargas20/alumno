@@ -1,3 +1,3 @@
 # alumn23
-este es un repositorio 
+mi segundo repo
 ## HOLA
